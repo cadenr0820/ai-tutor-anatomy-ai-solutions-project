@@ -1,0 +1,7 @@
+streamlit
+sentence-transformers
+chromadb
+langchain==0.1.13
+langchain-core==0.1.33
+langchain-text-splitters==0.1.0
+transformers
