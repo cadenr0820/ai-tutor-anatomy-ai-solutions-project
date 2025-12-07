@@ -1,0 +1,14 @@
+The Eleven Major Organ Systems of the Human Body.
+The body is organized into 11 interconnected organ systems, each performing specific tasks vital for maintaining homeostasis. Understanding these systems is fundamental to human anatomy.
+
+1. Integumentary System: This system includes the **skin, hair, and nails**. Its main function is to form the **external protective covering** of the body, providing insulation, and synthesizing Vitamin D. It acts as the first line of defense against pathogens.
+2. Skeletal System: Composed of **bones, cartilage, and ligaments**. It provides the **structural framework** for the body, protects internal organs (like the brain and heart), stores minerals (calcium), and is the site of blood cell formation (hematopoiesis).
+3. Muscular System: Includes the **skeletal, cardiac, and smooth muscles**. Its primary role is **movement** (locomotion, posture, and heat production). It works closely with the skeletal system to move bones.
+4. Nervous System: Consists of the **brain, spinal cord, and nerves**. It is the **fast-acting control system** of the body, responding to internal and external stimuli by activating muscles and glands.
+5. Endocrine System: Involves **glands** that secrete **hormones** (e.g., pituitary, thyroid, adrenal). It is the **slow-acting control system** that regulates processes like growth, reproduction, and metabolism.
+6. Cardiovascular System: Composed of the **heart, blood vessels, and blood**. It is responsible for **transporting oxygen, nutrients, hormones**, and waste products (like carbon dioxide) throughout the body.
+7. Lymphatic System (Immune): Includes the **lymph nodes, spleen, thymus, and lymphatic vessels**. It filters blood and lymph fluid and is critical for **defending the body against infection and disease**.
+8. Respiratory System: Includes the **lungs, trachea, and bronchi**. Its main function is to **supply the body with oxygen** and remove carbon dioxide through gas exchange.
+9. Digestive System: A long tube from the **mouth to the anus** that includes organs like the **stomach, intestines, and liver**. Its purpose is to **break down food** into absorbable nutrients and eliminate indigestible waste.
+10. Urinary System: Includes the **kidneys, ureters, bladder, and urethra**. Its main role is to **eliminate nitrogenous wastes** from the blood and regulate water, electrolyte, and acid-base balance.
+11. Reproductive System: Involves the **testes and ovaries**. Its primary function is the **production of offspring** and the secretion of sex hormones.
