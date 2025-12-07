@@ -1,5 +1,0 @@
-streamlit
-sentence-transformers
-chroma-db
-langchain-text-splitters
-transformers
